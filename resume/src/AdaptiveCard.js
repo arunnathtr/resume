@@ -16,7 +16,7 @@ class AdaptiveCard extends React.PureComponent {
         adaptiveCard.parse(cardPayload);
         adaptiveCard.render(this.el);
 
-        console.log(data);
+        //console.log(data);
     }
 
     componentWillUnmount() {

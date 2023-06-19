@@ -2,7 +2,8 @@ const projects =
 {
   "list": [
     {
-      "no": 0,
+      "no": 25,
+      "e_no": 25,
       "orginal_no": 1,
       "title": "DV Administration Web system 2.1",
       "client": "Hamamatsu Photonics",
@@ -14,7 +15,8 @@ const projects =
       "imageurl": "DVAdmin.webp"
     },
     {
-      "no": 2,
+      "no": 24,
+      "e_no": 24,
       "orginal_no": 2,
       "title": "Mini TWAIN Scan to Folder Client",
       "client": "Hewlett-Packard",
@@ -26,7 +28,8 @@ const projects =
       "imageurl": "hp-scanjet-pro-2500-f1-flatbed-scanner-1.png"
     },
     {
-      "no": 3,
+      "no": 23,
+      "e_no": 23,
       "orginal_no": 3,
       "title": "System Activity Monitor",
       "client": "Hamamatsu University",
@@ -38,7 +41,8 @@ const projects =
       "imageurl": "SAM.png"
     },
     {
-      "no": 4,
+      "no": 22,
+      "e_no": 22,
       "orginal_no": 4,
       "title": "HP Device Integration Projects",
       "client": "Hewlett-Packard",
@@ -50,7 +54,8 @@ const projects =
       "imageurl": "HPprinter.jpg"
     },
     {
-      "no": 5,
+      "no": 21,
+      "e_no": 21,
       "orginal_no": 5,
       "title": "HP Karnak Software Integration",
       "client": "Hewlett-Packard",
@@ -62,7 +67,8 @@ const projects =
       "imageurl": "hp-karnak.webp"
     },
     {
-      "no": 6,
+      "no": 20,
+      "e_no": 20,
       "orginal_no": 6,
       "title": "HP Web Registration Component",
       "client": "Hewlett-Packard",
@@ -74,7 +80,8 @@ const projects =
       "imageurl": "webreg.webp"
     },
     {
-      "no": 7,
+      "no": 19,
+      "e_no": 19,
       "orginal_no": 7,
       "title": "HP Tools & Services Project",
       "client": "Hewlett-Packard",
@@ -86,7 +93,8 @@ const projects =
       "imageurl": "HP-Scan-doctor-1-1.webp"
     },
     {
-      "no": 10,
+      "no": 18,
+      "e_no": 18,
       "orginal_no": 8,
       "title": "System1 Installer",
       "client": "General Electric Energy",
@@ -98,7 +106,8 @@ const projects =
       "imageurl": "gesystem1.jpeg"
     },
     {
-      "no": 11,
+      "no": 17,
+      "e_no": 17,
       "orginal_no": 9,
       "title": "HP ConnectJet",
       "client": "Hewlett-Packard",
@@ -110,7 +119,8 @@ const projects =
       "imageurl": "hp-connectjet.png"
     },
     {
-      "no": 8,
+      "no": 16,
+      "e_no": 16,
       "orginal_no": 10,
       "title": "HP - vSwitch Development and Certification",
       "client": "Hewlett-Packard",
@@ -122,7 +132,8 @@ const projects =
       "imageurl": "hp-vswitch.png"
     },
     {
-      "no": 9,
+      "no": 15,
+      "e_no": 15,
       "orginal_no": 11,
       "title": "Tilera OpenFlow Switch",
       "client": "Tilera",
@@ -134,7 +145,8 @@ const projects =
       "imageurl": "tilera.png"
     },
     {
-      "no": 12,
+      "no": 14,
+      "e_no": 14,
       "orginal_no": 12,
       "title": "TSP Integrations Installer SDK ",
       "client": "Product - Tyco",
@@ -147,6 +159,7 @@ const projects =
     },
     {
       "no": 13,
+      "e_no": 13,
       "orginal_no": 13,
       "title": "Tyco - Victor Unified Site Server ",
       "client": "Product - Tyco",
@@ -158,7 +171,8 @@ const projects =
       "imageurl": "Tyco Prod_High Assurance Security Solution.png"
     },
     {
-      "no": 14,
+      "no": 12,
+      "e_no": 12,
       "orginal_no": 14,
       "title": "Tyco - CCURE 9000 – Victor Unified Installer ",
       "client": "Product - Tyco",
@@ -170,7 +184,8 @@ const projects =
       "imageurl": "TycoCURE9000.png"
     },
     {
-      "no": 15,
+      "no": 11,
+      "e_no": 11,
       "orginal_no": 15,
       "title": "Tyco - Victor 4.7 Elasticity ",
       "client": "Product - Tyco",
@@ -182,7 +197,8 @@ const projects =
       "imageurl": "tyco-victor.png"
     },
     {
-      "no": 22,
+      "no": 7,
+      "e_no": 4,
       "orginal_no": 16,
       "title": "Cios-Fit Surgical Mobile C-Arm X-Ray System",
       "client": "SIEMENS",
@@ -194,7 +210,8 @@ const projects =
       "imageurl": "SIEMENS-cios_fit-v2.webp"
     },
     {
-      "no": 20,
+      "no": 3,
+      "e_no": 3,
       "orginal_no": 17,
       "title": "SmartMedic – ICU Bed Monitoring Solution",
       "client": "Stryker ",
@@ -206,7 +223,8 @@ const projects =
       "imageurl": "stryker.jpeg"
     },
     {
-      "no": 21,
+      "no": 10,
+      "e_no": 2,
       "orginal_no": 18,
       "title": "GE Mural Connect Hub ",
       "client": "GE Healthcare",
@@ -218,7 +236,8 @@ const projects =
       "imageurl": "mural-connect-2_Compliance.png"
     },
     {
-      "no": 16,
+      "no": 6,
+      "e_no": 10,
       "orginal_no": 19,
       "title": "Multi-Patient Viewer",
       "client": "GE Healthcare",
@@ -230,7 +249,8 @@ const projects =
       "imageurl": "GE_MPV.webp"
     },
     {
-      "no": 17,
+      "no": 5,
+      "e_no": 9,
       "orginal_no": 20,
       "title": "Sustenance Data Analysis Platform ",
       "client": "GE Healthcare",
@@ -242,7 +262,8 @@ const projects =
       "imageurl": "GE_ISP.svg"
     },
     {
-      "no": 19,
+      "no": 9,
+      "e_no": 5,
       "orginal_no": 21,
       "title": "Infusion Pump",
       "client": "Baxter",
@@ -254,7 +275,8 @@ const projects =
       "imageurl": "baxter.jpeg"
     },
     {
-      "no": 23,
+      "no": 4,
+      "e_no": 8,
       "orginal_no": 22,
       "title": "Mural Connect",
       "client": "GE Healthcare",
@@ -266,7 +288,8 @@ const projects =
       "imageurl": "GE-mural_logo_concepts_onwhite.png"
     },
     {
-      "no": 18,
+      "no": 2,
+      "e_no": 6,
       "orginal_no": 23,
       "title": "Mural Insights BI Platform",
       "client": "GE Healthcare",
@@ -278,7 +301,8 @@ const projects =
       "imageurl": "GE-BI.png"
     },
     {
-      "no": 25,
+      "no": 1,
+      "e_no": 7,
       "orginal_no": 24,
       "title": "Mural Perinatel and AI Integration. ",
       "client": "GE Healthcare",
@@ -290,7 +314,8 @@ const projects =
       "imageurl": "GE-perinatel.webp"
     },
     {
-      "no": 24,
+      "no": 8,
+      "e_no": 1,
       "orginal_no": 25,
       "title": "MAC 600 ECG Machine",
       "client": "GE Healthcare",

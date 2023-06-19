@@ -38,7 +38,7 @@
 
 .column {
   float: left;
-  width: 50%;
+  width: 33%;
 }
 
 /* Clear floats after the columns */
@@ -56,11 +56,13 @@
 
 
 .border-shadow {
-  border:1px solid;
   filter:drop-shadow(4px 4px 3px #282c34);
   background-color: transparent;
 }
 
-.h3 {
+.App-bigblue {
+  color: DodgerBlue;
+  padding: 40px;
+  font-family: Arial;
   text-align: left;
 }
